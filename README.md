@@ -91,8 +91,6 @@ forge test --fork-url $SEPOLIA_RPC_URL
 forge coverage
 ```
 
-
-
 # Deployment to a testnet or mainnet
 
 1. Setup environment variables
@@ -176,10 +174,10 @@ So, then you have two options:
 
 # Thank you!
 
-[![Patrick Collins Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rosarioborgesi)
-[![Patrick Collins YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@rosarioborgesi)
-[![Patrick Collins Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosarioborgesi/)
-[![Patrick Collins Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rosarioborgesi)
+[![Rosario Borgesi Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/rosarioborgesi/)
+[![Rosario Borgesi YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@rosarioborgesi/)
+[![Rosario Borgesi Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosarioborgesi/)
+[![Rosario Borgesi Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rosarioborgesi/)
 
 
 <!-- Testing krunchdata https://kdta.io/b6T40  -->
